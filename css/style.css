@@ -404,8 +404,8 @@ font-family: 'Lobster', cursive;
           backface-visibility: hidden;
   background-position: center;
   background-size: cover;
-  -webkit-animation: fade-in 20s ease-in;
-          animation: fade-in 20s ease-in;
+  -webkit-animation: fade-in 5s ease-in;
+          animation: fade-in 5s ease-in;
   -webkit-animation-iteration-count: 1;
           animation-iteration-count: 1;
 }
